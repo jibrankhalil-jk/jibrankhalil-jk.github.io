@@ -25,18 +25,22 @@ Native programming for Android (with java).
   <h1 align="start"> How to reach me? </h1>
 <p h2 align="start">
  
- <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/">
+ <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
  </a>
  <a href="mailto:dev.jibrankhalil@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
  </a>
- <a href="https://github.com/jibrankhalil-jk/">
+ <a href="https://github.com/jibrankhalil-jk">
   <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
  </a>
- <a href="https://jibrankhalil-jk.github.io/">
+ <a href="https://jibrankhalil-jk.github.io">
   <img alt="Website" src="https://img.shields.io/badge/Website-150458.svg?style=flat-squar&logo=GoogleChrome&logoColor=white"/>
  </a>
+
+
+
+ 
  
  <br />
 <p align="start">
