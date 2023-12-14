@@ -166,6 +166,4 @@ Native programming for Android (with java).
   <h1 align="start"> Stats </h1>
 <p h2 align="start">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jibrankhalil-jk)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibrankhalil-jk&show_icons=true&theme=radical)
