@@ -167,3 +167,5 @@ Native programming for Android (with java).
 <p h2 align="start">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jibrankhalil-jk)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
